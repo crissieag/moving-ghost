@@ -5,7 +5,7 @@
 
 # :page_facing_up: Sobre #
  
-Projeto feito como estudo de JS, com manipulação da DOM HTML e alguma estilização do CSS. O fantasma se move com as teclas 'A', 'S' 'W' e 'D', imprimindo mensagem personalizada para cada comando.
+Projeto feito como estudo de JS, com manipulação da DOM HTML e alguma estilização do CSS. O ghost se move com as teclas 'A', 'S' 'W' e 'D', imprimindo mensagem personalizada para cada comando. Ghost criado apenas com CSS.
 
 Link para acesso, clique [aqui](https://dndc0.csb.app/).
 
